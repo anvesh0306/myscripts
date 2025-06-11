@@ -1,0 +1,10 @@
+#! /bin/bash
+# read topic
+
+echo HI,I am Anvesh 
+echo
+echo what is you good name?
+read namecomt
+echo
+echo $namecont
+echo

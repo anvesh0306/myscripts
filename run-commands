@@ -1,0 +1,13 @@
+#! /bin/bash
+
+# Define samll tasks
+# This script is written by anvesh reddipalli
+# Date  written : feb 2025
+
+whoami
+echo
+pwd
+hostname
+echo
+ls -ltr
+echo

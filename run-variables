@@ -1,0 +1,14 @@
+#! /bin/bash
+# Defining the variable
+# This script is written by Anvesh Reddipalli
+
+a='Anvesh'
+b='Reddipalli'
+c='Azure Systems Administrator'
+d='03-12-1992'
+
+
+echo "My first name is $a"
+echo "My Last name is $b"
+echo "My Designation is $c"
+echo "my Date of Birth is $d"
