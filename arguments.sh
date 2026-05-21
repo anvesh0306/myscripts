@@ -1,3 +1,10 @@
 #!/bin/bash
 
-echo "My name is $1"
+echo "Enter username: "
+read username
+
+echo "Enter password: "
+read -s password
+
+echo "Username: $username"
+echo "Password: $password"
